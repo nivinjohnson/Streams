@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Stream Nivin",
+      "description": "Nivin created this stream",
+      "userId": "112781990512725772569",
+      "id": 4
+    },
+    {
+      "title": "Test One",
+      "description": "Test for Programatic Nav",
+      "userId": "112781990512725772569",
+      "id": 5
+    },
+    {
+      "title": "Test",
+      "description": "Test One - Edited",
+      "id": 7
+    }
+  ]
+}
